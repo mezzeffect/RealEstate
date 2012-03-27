@@ -1,0 +1,5 @@
+C:\WORK\MyWork\ZhourFirst\ZhourFirst\bin\ZhourFirst.dll
+C:\WORK\MyWork\ZhourFirst\ZhourFirst\bin\ZhourFirst.pdb
+C:\WORK\MyWork\ZhourFirst\ZhourFirst\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\MyWork\ZhourFirst\ZhourFirst\obj\Debug\ZhourFirst.dll
+C:\WORK\MyWork\ZhourFirst\ZhourFirst\obj\Debug\ZhourFirst.pdb
